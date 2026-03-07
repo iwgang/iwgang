@@ -1,4 +1,5 @@
+<!-- 个人统计卡片 -->
+![github stats](https://stats.justsong.cn/api/github-stats?username=iwgang&show_icons=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iwgang&show_icons=true)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=iwgang&langs_count=6&layout=compact)
+<!-- 语言统计卡片 -->
+![top langs](https://stats.justsong.cn/api/github-top-langs?username=iwgang&langs_count=6&layout=compact)
