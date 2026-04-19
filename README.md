@@ -2,3 +2,4 @@
 
 
 [OpenClaw GUI](https://github.com/iwgang/openClawGUI)
+[HermesAgent GUI](https://github.com/iwgang/HermesAgentGUI)
